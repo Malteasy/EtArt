@@ -1,0 +1,11 @@
+<div class="images-wrapper justify-content-center">
+  <div class="image-holder" *ngFor="let image of images">
+    <a (click)="open(image)">
+      <img src="assets/images/{{image.type}}/{{year}}/{{image.name}}.{{image.suffix}}">
+    </a>
+      
+  </div>
+</div>
+
+
+  

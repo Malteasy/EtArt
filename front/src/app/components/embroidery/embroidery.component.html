@@ -1,0 +1,15 @@
+<div *ngFor="let year of imgSet | keyvalue">
+   <span>   
+        <button (click)="onClick(year.key, $event)" type="button" id="{{year.key}}" class="btn btn-outline-dark btn-lg">{{year.key}}</button>
+   </span>
+</div>
+
+<div *ngIf="show; then imgBlock else nullBlock"></div>
+
+<ng-template #nullBlock>click a button</ng-template>
+<ng-template #imgBlock>
+
+    <div class="">
+        <app-image-cards [year]="yearShowing" [images]="images"></app-image-cards>
+    </div>
+</ng-template>

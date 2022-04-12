@@ -1,0 +1,101 @@
+[
+    {
+        "name": "1",
+        "description": "I THOUGHT I SAW A TYRANNOSAURUS REX, pencil on paper",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2019-01-01",
+        "size": "20x30"
+    },
+    {
+        "name": "2",
+        "description": "BUT IT WAS ONLY A POLITICIAN WHO WAS WELL DRESSED, pencil on paper",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2019-01-02",
+        "size": "20x30"
+    },
+    {
+        "name": "1",
+        "description": "HALO EFFECT, drawing on glass",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2018-01-02",
+        "size": "26x32"
+    },
+    {
+        "name": "2",
+        "description": "LEVELS OF PROCESSING EFFECT, drawing on glass",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2018-01-03",
+        "size": "26x32"
+    },
+    {
+        "name": "3",
+        "description": "SPOTLIGHT EFFECT, drawing on glass",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2018-01-04",
+        "size": "26x32"
+    },
+    {
+        "name": "4",
+        "description": "DEAR BRAIN, WHY THE FUCK ARE YOUR FOLKS ACTING SO VAIN?, spraying on mirror",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2018-01-05",
+        "size": "30x30"
+    },
+    {
+        "name": "5",
+        "description": "SOLARPLEXUS",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2018-01-06",
+        "size": "40x50"
+    },
+    {
+        "name": "1",
+        "description": "PAIN",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2017-01-07",
+        "size": "47x57"
+    },
+    {
+        "name": "2",
+        "description": "CACTUS",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2017-01-08",
+        "size": "47x57"
+    },
+    {
+        "name": "3",
+        "description": "UNTIL THE WORDS ERASE THE PROMISE YOUR LIPS GUARANTEED MINE, UNTIL OUR LOVE FADES AND THERE AIN’T NO SHINE",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2017-01-09",
+        "size": "42x60"
+    },
+    {
+        "name": "1",
+        "description": "HEARTBROKEN DOGS",
+        "type": "drawing",
+        "suffix": "jpg",
+        "price": 130.00,
+        "date": "2016-01-10",
+        "size": "19x25"
+    }
+]

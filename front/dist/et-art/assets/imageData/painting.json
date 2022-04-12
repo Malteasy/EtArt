@@ -1,0 +1,416 @@
+
+[{
+    "name":"1",
+    "description": "NEW LINGO",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2019-01-01",
+    "size":"50x60"
+},
+{
+    "name":"2",
+    "description": "PEACE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2019-01-02",
+    "size":"50x60"
+},
+{
+    "name":"3",
+    "description": "PI",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2019-01-03",
+    "size":"50x60"
+},
+{
+    "name":"1",
+    "description": "WATERFALL OF A MONKEY TOWN",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-04",
+    "size":"100x120"
+},
+{
+    "name":"2",
+    "description": "HUMANITARIAN CRISIS I",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-05",
+    "size":"50x60"
+},
+{
+    "name":"3",
+    "description": "HUMANITARIAN CRISIS II",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-06",
+    "size":"50x60"
+},
+{
+    "name":"4",
+    "description": "MORE THAN TINY DROPS IN THE UNIVERSE - HUMANKIND I",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-07",
+    "size":"50x60"
+},
+{
+    "name":"5",
+    "description": "MORE THAN TINY DROPS IN THE UNIVERSE - HUMANKIND II",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-08",
+    "size":"50x60"
+},
+{
+    "name":"6",
+    "description": "MORE THAN TINY DROPS IN THE UNIVERSE - HUMANKIND III",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-09",
+    "size":"50x60"
+},
+{
+    "name":"7",
+    "description": "WHITE AS IN PURITY",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-10",
+    "size":"40x50"
+},
+{
+    "name":"8",
+    "description": "BIRTH",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-11",
+    "size":"50x60"
+},
+{
+    "name":"9",
+    "description": "AILE (1)",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-12",
+    "size":"20x20"
+},
+{
+    "name":"10",
+    "description": "AILE (2)",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-13",
+    "size":"20x20"
+},
+{
+    "name":"11",
+    "description": "AILE (3)",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2018-02-14",
+    "size":"20x20"
+},
+{
+    "name":"1",
+    "description": "GIVE IT ONE MORE CHANCE, FREE YOUR HEAD AND LET YOUR SPIRIT DANCE (LOVE)",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-01",
+    "size":"50x60"
+},
+{
+    "name":"2",
+    "description": "HOW YOU DUMPLY PLAY PRETEND AND SMILE AT ME, BUT YOUR EMPTY HYPOCRISY IS ALL I SEE (POKER FACE)",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-02",
+    "size":"50x60"
+},
+{
+    "name":"3",
+    "description": "LUCK",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-03",
+    "size":"50x60"
+},
+{
+    "name":"4",
+    "description": "SYMPOSIUM",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-04",
+    "size":"50x60"
+},
+{
+    "name":"5",
+    "description": "LOTUS EFFECT",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-05",
+    "size":"50x60"
+},
+{
+    "name":"6",
+    "description": "WATERFALL OF PAIN",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-06",
+    "size":"40x50"
+},
+{
+    "name":"7",
+    "description": "THIS LIFE IS A COLOURFUL ONE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-07",
+    "size":"50x70"
+},
+{
+    "name":"8",
+    "description": "ENERGIES DON’T LIE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-08",
+    "size":"50x70"
+},
+{
+    "name":"9",
+    "description": "MOONLIGHT",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-09",
+    "size":"50x70"
+},
+{
+    "name":"10",
+    "description": "THE FROG PRINCE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-10",
+    "size":"40x50"
+},
+{
+    "name":"11",
+    "description": "LOLLIPOP - DON’T LET THE WORLD DROP",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-11",
+    "size":"50x70"
+},
+{
+    "name":"12",
+    "description": "THE DANCE AND ITS CRACK",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-12",
+    "size":"50x60"
+},
+{
+    "name":"13",
+    "description": "’FLOWERS OF CONTENT AND PEACE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-013",
+    "size":"50x70"
+},
+{
+    "name":"14",
+    "description": "FLOWERS OF GLITTER",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-14",
+    "size":"40x50"
+},
+{
+    "name":"15",
+    "description": "FLOWERS OF HOPE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-15",
+    "size":"40x50"
+},
+{
+    "name":"16",
+    "description": "FLOWERS OF OPTIMISM",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-16",
+    "size":"50x70"
+},
+{
+    "name":"17",
+    "description": "NON-FINITO",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-17",
+    "size":"40x50"
+},
+{
+    "name":"18",
+    "description": "NO SURPRISE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-18",
+    "size":"50x70"
+},
+{
+    "name":"19",
+    "description": "WATERFALL OF LIFE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-19",
+    "size":"70x100"
+},
+{
+    "name":"20",
+    "description": "EMBRYO",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-20",
+    "size":"20x26"
+},
+{
+    "name":"21",
+    "description": "BLOSSOM",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2017-03-21",
+    "size":"40x50"
+},
+{
+    "name":"1",
+    "description": "ACHE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-01",
+    "size":"50x60"
+},
+{
+    "name":"2",
+    "description": "BREATHE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-02",
+    "size":"50x70"
+},
+{
+    "name":"3",
+    "description": "MERCY",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-03",
+    "size":"40x50"
+},
+{
+    "name":"4",
+    "description": "SHINE",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-05",
+    "size":"40x50"
+},
+{
+    "name":"5",
+    "description": "LUST",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-06",
+    "size":"50x60"
+},
+{
+    "name":"6",
+    "description": "GODDESS",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-07",
+    "size":"40x50"
+},
+{
+    "name":"7",
+    "description": "THUNDER OF EMOTIONS",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-08",
+    "size":"40x50"
+},
+{
+    "name":"8",
+    "description": "UNTITLED",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-09",
+    "size":"40x50"
+},
+{
+    "name":"9",
+    "description": "WATERFALL OF DISSOLVED ILLUSIONS",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-10",
+    "size":"40x50"
+},
+{
+    "name":"10",
+    "description": "WHERE IS THE FAIRY IN THIS SHITLOADS OF FAIRY TALES",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-11",
+    "size":"40x40"
+},
+{
+    "name":"11",
+    "description": "SMASHING PATRIARCHY AND ITS DELUSIONS AT ITS FINEST, WE STAND STRONGER UNITED AT OUR DIVINEST",
+    "type":"painting",
+    "suffix":"jpg",
+    "price":130.00,
+    "date":"2016-04-12",
+    "size":"26x29"
+}]
+

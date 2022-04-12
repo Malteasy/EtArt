@@ -1,0 +1,13 @@
+<div class="modal-body">
+  <img style="width: 100%;" src="assets/images/{{image?.type}}/{{year}}/{{image?.name}}.{{image?.suffix}}">
+
+  <div class="description">
+    {{image?.description}} | {{image?.size}} 
+  </div>
+</div>
+
+
+<div class="modal-footer">
+ 
+  <button type="button" class="btn btn-outline-dark" (click)="activeModal.close('Close click')">Close</button>
+</div>

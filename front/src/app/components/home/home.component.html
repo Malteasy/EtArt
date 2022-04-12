@@ -1,0 +1,84 @@
+  <nav class="navbar navbar-expand-md navbar-light bg-light">
+    <div class="container-fluid">
+      <a ngbNav class="navbar-brand"  href="/" (click)="show = true">ET ART FROM THE HEART</a>
+     
+      <button class="navbar-toggler" type="button" aria-controls="navbarContent" [attr.aria-expanded]="!collapsed" aria-label="Toggle navigation" (click)="collapsed = !collapsed">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+  
+      <div class="navbar-collapse" [class.collapse]="collapsed" id="navbarContent">
+        <ul ngbNav #nav="ngbNav" class="navbar-nav ms-auto" [(activeId)]="active">
+          <li ngbNavItem class="nav-item" ngbDropdown>
+            <a  class="nav-link" id="navbarDropdown1" ngbNavLink (click)="show = false; impressum = false"> 
+              PAINTING
+            </a>
+            <ng-template ngbNavContent>
+              <app-image-controller type="painting"></app-image-controller>
+              <!-- <app-painting [name]="helloName"></app-painting> -->
+            </ng-template>
+          </li>
+  
+          <li ngbNavItem class="nav-item" ngbDropdown>
+            <a  class="nav-link" id="navbarDropdown1" ngbNavLink (click)="show = false; impressum = false"> 
+              PHOTOGRAPHY
+            </a>
+            <ng-template ngbNavContent>
+              <app-image-controller type="photography"></app-image-controller>
+
+              <!-- <app-photography></app-photography> -->
+            </ng-template>
+          </li>
+          <li ngbNavItem class="nav-item" ngbDropdown>
+            <a  class="nav-link" id="1" ngbNavLink (click)="show = false; impressum = false"> 
+              EMBROIDERY
+            </a>
+            <ng-template ngbNavContent>
+              <app-image-controller type="embroidery"></app-image-controller>
+            </ng-template>
+          </li>
+          <li ngbNavItem class="nav-item" ngbDropdown>
+            <a  class="nav-link" id="1" ngbNavLink (click)="show = false; impressum = false"> 
+              DRAWING
+            </a>
+            <ng-template ngbNavContent>
+              <app-image-controller type="drawing"></app-image-controller>
+            </ng-template>
+          </li>
+  
+          
+          <li ngbNavItem class="nav-item" ngbDropdown>
+            <span>
+              <a  class="nav-link" id="navbarDropdown1" ngbNavLink (click)="show = false; impressum = false"> 
+                ABOUT
+              </a>
+            </span>
+          
+            <ng-template ngbNavContent>
+              <app-about></app-about>
+            </ng-template>
+          </li>
+        </ul>
+       
+      </div>
+    </div>
+  </nav>
+<div *ngIf="impressum == false">
+ <div *ngIf="show">
+  <img class="home-img" src="assets/images/home/1.jpg">
+ </div>
+  <div [ngbNavOutlet]="nav">
+
+  </div> 
+</div>
+<div *ngIf="impressum == true">
+  <app-impressum></app-impressum>
+</div>
+ 
+<footer class="footer">
+  <div class="">
+    <div class="">
+      <div class="">
+      <h5>All Rights Reserved | <a (click)="showImpressum()">Impressum</a></h5></div>
+    </div>
+  </div>
+</footer>
